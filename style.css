@@ -6,13 +6,13 @@
 .section-title{
     font-size: 4rem;
     font-weight: 300;
-    color:black;
+    color:000000;
     margin-bottom: 10px ;
     text-transform: uppercase;
     letter-spacing: .2rem;
 }
 .section-title span{
-    color: crimson;
+    color:FFFF00;
 }
 html{
     font-size: 10px;
