@@ -567,7 +567,7 @@ animation-delay: .5s;
 }
 @keyframes text_reveal_name{
     100%{
-        color:crimson;
+        color:#FF0;
         font-weight: 500px;
     }
 }
