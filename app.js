@@ -11,7 +11,7 @@
  document.addEventListener('scroll',()=>{
      var scroll_position =window.scrollY;
      if(scroll_position > 215 ){
-         header.style.backgroundColor ="rgb(31,30,30)";
+         header.style.backgroundColor ="rgb(0,0,0)";
      }
      else{
          header.style.backgroundColor="transparent"
