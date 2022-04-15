@@ -118,7 +118,7 @@ p{
     
 }
 #header .nav-list ul li:hover a{
-    color: crimson;
+    color: #FF0;
 }
 #header .nav-list ul li:hover a::after{
     transform: translate(-50%,-50%) scale(1);
