@@ -60,6 +60,7 @@ p{
 }
 #header .header{
     min-height: 8vh;
+    color:#FFFF00;
     background-color:#0000003c ;
     transition: .3s ease background-color;
 }
