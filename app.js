@@ -14,7 +14,7 @@
          header.style.backgroundColor ="rgb(0,0,0)";
      }
      else{
-         header.style.backgroundColor="rgb(156,156,156)"
+         header.style.backgroundColor="transparent"
          }
      
      
