@@ -182,7 +182,7 @@ bottom: 0;
 /* end header */
 /*star Section*/
 #star{
-         background-image:url(./img/banner.png) ;
+         background-image:url('https://raw.githubusercontent.com/autovators/website/main/img/banner.png');
          background-size: cover;
          background-position: top center;
          position: relative;
