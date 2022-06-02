@@ -387,7 +387,6 @@ animation-delay: .5s;
 }
 #projects .project-img{
     flex-basis: 50%;
-    height: 100px;
     overflow: hidden;
     position: relative;
 }
